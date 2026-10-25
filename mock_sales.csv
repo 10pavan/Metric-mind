@@ -1,0 +1,7 @@
+region,quarter,revenue,cost,churn_rate
+Europe,Q1_2026,120000,80000,0.05
+Europe,Q2_2026,95000,75000,0.08
+North America,Q1_2026,250000,150000,0.03
+North America,Q2_2026,270000,160000,0.02
+Asia,Q1_2026,180000,110000,0.04
+Asia,Q2_2026,195000,115000,0.04
